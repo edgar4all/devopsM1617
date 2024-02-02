@@ -1,1 +1,1 @@
-# devopsM1617 - deprecado
+# devopsM1617 - deprecated
